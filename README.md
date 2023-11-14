@@ -1,2 +1,2 @@
 # To-do-list
-To-do-list project using PHP, OPP and Mysql
+To-do-list project using by PHP, OPP and Mysql
